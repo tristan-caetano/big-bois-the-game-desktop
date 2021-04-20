@@ -1,0 +1,68 @@
+Major release: Version alpha 0.1.0:
++Game is created
++That's it
+
+Known bugs for 0.1.0:
+-Bug that allowed you to keep playing after both you and the enemy die at the same time
+-Bug that doesn’t reset pp, health packs, and enemy kills when you die
+-Game doesn’t tell you when you get more pp
+-Bug that allows you to edit in game text
+
+Major Update: Version alpha 0.2.0: Shop Update
++Added Shop
++Added Coin Bois to use in shop (currency CB)
++Enemies now Drop Coin Bois
++Added Bosses
++Game now tells you how many enemies you’ve killed after killing an enemy
++Added version on title screen
++Game tells you when you get more pp
++Health is maxed at 1500
++Added leveling system
+-Fixed bug that allowed you to keep playing after both you and the enemy die at the same time
+-Health packs, pp, coins, and enemy kills reset upon death
+-Removed “Click Battle to Begin!”
+-Fixed bug that allows you to edit in game text
+
+Known Bugs for 0.2.0:
+-Bug that sometimes after killing an enemy and going back into a battle sequence, the same enemy will appear with negative health
+-Bug when killing enemies with negative health, you will lose coins
+-Please run away from enemies with negative health to avoid losing coins
+-Bug that doesn’t reset your level after you die
+
+Major Update: Version alpha 0.3.0: Stamina Update (Game is actually difficult now)
++Added Stamina
++Attacking, some special attacks and running away now use up stamina
++Added Stamina Chonks that regenerate 30 stamina, you can buy them in the store for 50 CB
++Blocking now regenerates stamina
++Added Cronch Stamina Chonk button 
++Replaced Check PP with inventory
++Changed check pp button to inventory button
++Running Away now uses stamina
++Added special attack that trades PP for stamina
+-Fixed bug that doesn’t reset level upon death
+
+Known Bugs for 0.3.0:
+-Bug that doesn’t increase damage after leveling up
+-Bug that sometimes after killing an enemy and going back into a battle sequence, the same enemy will appear with negative health
+-Bug when killing enemies with negative health, you will lose coins
+
+Minor Update: Version alpha 0.3.1: Decided game might be too brutal
++Enemies drop stamina chonks
++Blocking gives more stamina than before
+-Fixed bug that doesn’t increase damage after leveling up
+-Killing enemies with negative health no longer gives you negative coins
+
+Major Update: Version alpha 0.4.0: Housekeeping Update
++Added Settings button to main menu
++Added Save Game button to main menu
++Added Load Game button to main menu
++Added to resolution 1920x1080 in Settings
++You can no longer ask bosses politely but firmly to leave
++You can no longer run from a boss
++Added COVID-19 and Karen to possible boss names
+
+0.4.0 NOTE:
+Music was added, but could not be compiled, this issue will be looked into further
+
+
+
